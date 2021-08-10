@@ -1,0 +1,34 @@
+{
+  "name": "npgbots-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "disbots",
+    "api",
+    "bots",
+    "vote",
+    "check",
+    "vote",
+    "control",
+    "force",
+    "vote"
+  ],
+  "author": "npg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wumpuspro/adequate-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wumpuspro/adequate-api/issues"
+  },
+  "homepage": "https://github.com/Wumpuspro/adequate-api#readme",
+  "description": ""
+}
